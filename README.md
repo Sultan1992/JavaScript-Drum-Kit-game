@@ -1,9 +1,4 @@
 
 
-take away from this project
-//DOM ELEMENTS IN JAVASCRIPTS 
-//adding event lister 
-//using higher order function such as calling function inside other functions 
-//constructor functions 
-//javasript objects and proprties
-//arrays 
+This is a JavaScript drum kit game. It's fantastic website to play around if you love game and playing with key board.
+When working on this project I leaned JavaScript concepts such as  DOM elements, adding event lister, high order function such as calling functions in onother function, constructor functions, JavaScript objects, properties and switch statements .
